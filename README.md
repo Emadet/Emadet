@@ -4,9 +4,9 @@
 🛠️ Languages and Tools :
 HTML,CSS, JavaScript
 
-🌱 I’m currently learning ReactJs and Tailwind Css
-😄 Pronouns: He/Him
-⚡ Fun fact: I love watching anime
+- 🌱 I’m currently learning ReactJs and Tailwind CSS
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I love watching anime
 
 
 
