@@ -1,4 +1,14 @@
-### Hi there 👋
+## Hi there , I'm Douglas👋
+#I'm an aspiring  Frontend Developer.
+
+🛠️ Languages and Tools :
+HTML,CSS, JavaScript
+
+🌱 I’m currently learning ReactJs and Tailwind Css
+😄 Pronouns: He/Him
+⚡ Fun fact: I love watching anime
+
+
 
 <!--
 **Emadet/Emadet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
